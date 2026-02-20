@@ -1,0 +1,2 @@
+Acquire::http::proxy "http://proxy.onecert.fr:80";
+Acquire::https::proxy "https://proxy.onercert.fr:80";
